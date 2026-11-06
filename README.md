@@ -54,3 +54,6 @@ GitHub Actions workflow runs linting and tests with coverage on Python 3.13. See
 ## License
 
 MIT. See [LICENSE](./LICENSE).
+
+### Updated by Imane
+This repository is forked from mrlabied/python-fastapi-app
